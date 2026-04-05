@@ -1,0 +1,10 @@
+id = "gruvbox-material-vscode-theme"
+name = "Gruvbox Material VSCode"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mettwasser"]
+description = "Gruvbox Material for Zed, almost 1:1 as if it was VSCode"
+repository = "https://github.com/mettwasser/gruvbox-material-vscode-zed"
+themes = [
+    "themes/gruvbox-material-vscode.json"
+]
