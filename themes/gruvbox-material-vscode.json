@@ -154,6 +154,11 @@
                     }
                 ],
                 "syntax": {
+                    "punctuation.bracket": {
+                        "color": "#c5b18d",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "decorator": {
                         "color": "#A9B665",
                         "font_style": null,
@@ -175,7 +180,7 @@
                         "font_weight": 700
                     },
                     "constant": {
-                        "color": "#d3869b",
+                        "color": "#D4BE98",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -269,11 +274,6 @@
                     },
                     "punctuation": {
                         "color": "#d4be98",
-                        "font_style": null,
-                        "font_weight": null
-                    },
-                    "punctuation.bracket": {
-                        "color": "#c5b18d",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -376,6 +376,11 @@
                     },
                     "attribute": {
                         "color": "#D3869B",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "selfTypeKeyword": {
+                        "color": "#EA6962",
                         "font_style": null,
                         "font_weight": null
                     }
